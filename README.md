@@ -1,4 +1,4 @@
-# Transformer Load Balancing Prototype
+# Transformer Load Balancing 
 
 Windows commands (run from this folder):
 ```bat
